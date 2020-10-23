@@ -1,18 +1,17 @@
-module.exports = {
+/*module.exports = {
     database:{
-        host: 'localhost:3306',
-        user: 'TeMM',
-        password: 't9WtefZbyui81H!v',
+        host: 'localhost',
+        user: 'hbserver_root',
+        password: 'Kh8im~22LkbdHyio',
         database: 'server_holobur'
     }
 }
-/*
+*/
 module.exports = {
     database:{
-        host: 'localhost',
-        user: 'root',
-        password: '',
-        database: 'database_links'
+        host: 'localhost:3306',
+        user: 'HBServerAdmin',
+        password: 'w&x9qMrri02hDAee',
+        database: 'hbserver'
     }
 }
-*/
