@@ -1,13 +1,13 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "HBServer",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src"
   },
-  "author": "",
+  "author": "TeMM",
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^2.16.1",
